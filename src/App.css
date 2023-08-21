@@ -210,7 +210,6 @@ main {
     flex-direction: column;
     column-gap: 0.75rem;
     row-gap: 0.5rem;
-    padding-inline: 0.75rem;
 }
 
 .card {
