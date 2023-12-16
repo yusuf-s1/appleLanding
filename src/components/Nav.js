@@ -26,7 +26,7 @@ export default function Nav() {
         <a href="#" className='expand'>TV & Home</a>
         <a href="#" className='expand'>Entertainment</a>
         <a href="#" className='expand'>Accessories</a>
-        <a href="#" className='expand'>Support</a>
+        <a href="#" className='expand'>Supportt</a>
         <div className='right'>
             <a href="#"><BsSearch /></a>
             <a href="#"><BsBag /></a>
